@@ -6,7 +6,7 @@ A text-based game done in Python using OOP
 
 Simply open Terminal, and type the below to play:
 
-{ python main.py }
+` python main.py `
 
 Player attributes: Player has money, killing power, carried weight, and internal clock
 
