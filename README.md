@@ -4,6 +4,10 @@ A text-based game done in Python using OOP
 
 26 rooms total with rigid map, except for the first joint from the room to the hostel front, which is a random generation. Some rooms have a lot of puzzles, while others are distractors.
 
+Simply open Terminal, and type the below to play:
+
+{ python main.py }
+
 Player attributes: Player has money, killing power, carried weight, and internal clock
 
 * Monsters: A monster that can destroy a number of random items on the player before dying, another monster that has multiple lives, and another is fixed instead of moving randomly.
