@@ -24,11 +24,11 @@ Main maneuvers in game:
 9. Hint	A hint option available in some rooms. The player can see the hints if they need.
 
 Main objects:
-1	Weapon	Many weapons with varying kill power, and many have to be paid for. Multiple of them can be equipped at the same attack round, and their strength added together to attack monsters. Done by new attribute for item.
-2	Container	Items that hold other items, which reveals hidden items in a room when you inspect them. Picking up a container does not automatically pick up the insides of it. Player can pick up these hidden items separately. Done by new attribute for item.
-3	Locked chest	A container with a key. Player needs to use the open command, and have the right key on them, and type in the right key name, in order to open and reveal the items within. Then they can either pick up, or inspect inside the container. They can do so outside as well. Inherit from item.
-4	Locked room	Room that is locked, open only with a code or with the right tool on the player. Inherit from room.
-5	Products	Items that cost and can be picked up by buying function with the player’s money. Done by adding attributes to items.
+1.	Weapon	Many weapons with varying kill power, and many have to be paid for. Multiple of them can be equipped at the same attack round, and their strength added together to attack monsters. Done by new attribute for item.
+2.	Container	Items that hold other items, which reveals hidden items in a room when you inspect them. Picking up a container does not automatically pick up the insides of it. Player can pick up these hidden items separately. Done by new attribute for item.
+3.	Locked chest	A container with a key. Player needs to use the open command, and have the right key on them, and type in the right key name, in order to open and reveal the items within. Then they can either pick up, or inspect inside the container. They can do so outside as well. Inherit from item.
+4.	Locked room	Room that is locked, open only with a code or with the right tool on the player. Inherit from room.
+5.	Products	Items that cost and can be picked up by buying function with the player’s money. Done by adding attributes to items.
 
 
 
