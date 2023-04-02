@@ -8,7 +8,7 @@ Simply open Terminal, and type the below to play:
 
 ` python main.py `
 
-Player attributes: Player has money, killing power, carried weight, and internal clock
+* Player: Player has money, killing power, carried weight, and internal clock
 
 * Monsters: A monster that can destroy a number of random items on the player before dying, another monster that has multiple lives, and another is fixed instead of moving randomly.
 
@@ -16,7 +16,7 @@ Player attributes: Player has money, killing power, carried weight, and internal
 
 * Character	A character that may or may not have a restriction on (only when a player has a certain object for example). The player can use command ask, and interact with character by choosing one of the given conversation lines. New file.
 
-Main maneuvers in game:
+Main maneuvers in game (help is available to see all options):
 1.	Drop	Dropping an item to the room the player is in (removing from player and adding to room). Done as new player function.
 2.	Status	Listing out all player attributes that are important for decision making. Done by new function in player.
 3.	Inspect	Look at the description as well as important attributes of each item. Capable of inspecting within locked chests, and inspecting items contained in other items. Done by new function and player and controlled in main.
